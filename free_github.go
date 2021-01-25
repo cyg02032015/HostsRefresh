@@ -11,24 +11,24 @@ import (
 )
 
 var RAW_URLS = []string{
-	"github.githubassets.com",
-	"camo.githubusercontent.com",
-	"github.map.fastly.net",
-	"github.global.ssl.fastly.net",
 	"github.com",
 	"api.github.com",
+	"github.map.fastly.net",
+	"github.githubassets.com",
+	"github.global.ssl.fastly.net",
 	"raw.githubusercontent.com",
-	"favicons.githubusercontent.com",
-	"avatars8.githubusercontent.com",
-	"avatars7.githubusercontent.com",
-	"avatars6.githubusercontent.com",
-	"avatars5.githubusercontent.com",
-	"avatars4.githubusercontent.com",
-	"avatars3.githubusercontent.com",
-	"avatars2.githubusercontent.com",
-	"avatars1.githubusercontent.com",
-	"avatars0.githubusercontent.com",
+	"camo.githubusercontent.com",
 	"avatars.githubusercontent.com",
+	"avatars0.githubusercontent.com",
+	"avatars1.githubusercontent.com",
+	"avatars2.githubusercontent.com",
+	"avatars3.githubusercontent.com",
+	"avatars4.githubusercontent.com",
+	"avatars5.githubusercontent.com",
+	"avatars6.githubusercontent.com",
+	"avatars7.githubusercontent.com",
+	"avatars8.githubusercontent.com",
+	"favicons.githubusercontent.com",
 }
 
 const IPADDRESS_PREFIX = ".ipaddress.com"
