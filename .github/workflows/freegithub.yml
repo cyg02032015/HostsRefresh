@@ -48,4 +48,3 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN}}
-git@10.8.1.200:iOS_Platform_Modularization/HostsRefresh.git
