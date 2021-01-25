@@ -37,8 +37,8 @@ func Hosts() {
 	var content string = "#Github Host Start\n"
 	for _, rawUrl := range RAW_URLS {
 		ip := getIp(rawUrl)
-		// content += ip + " " + rawUrl + "\n"
-		content += rawUrl + " " + ip + "\n"
+		content += ip + " " + rawUrl + "\n"
+		// content += rawUrl + " " + ip + "\n"
 	}
 	content += "# Github Host End"
 
