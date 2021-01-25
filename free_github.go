@@ -29,18 +29,20 @@ var RAW_URLS = []string{
 	"avatars7.githubusercontent.com",
 	"avatars8.githubusercontent.com",
 	"favicons.githubusercontent.com",
+	"developer.apple.com",
+	"devstreaming-cdn.apple.com",
 }
 
 const IPADDRESS_PREFIX = ".ipaddress.com"
 
 func Hosts() {
-	var content string = "#Github Host Start\n"
+	var content string = "# Host Start\n"
 	for _, rawUrl := range RAW_URLS {
 		ip := getIp(rawUrl)
 		content += ip + " " + rawUrl + "\n"
 		// content += rawUrl + " " + ip + "\n"
 	}
-	content += "# Github Host End"
+	content += "# Host End"
 
 	writeToFile(content)
 }
