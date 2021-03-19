@@ -4,7 +4,7 @@
 ## hosts列表
 ```base
 # Host Start
-140.82.114.3 github.com
+140.82.112.4 github.com
 140.82.112.6 api.github.com
 185.199.108.133 github.map.fastly.net
 185.199.108.154 github.githubassets.com
@@ -22,12 +22,12 @@
 185.199.108.133 avatars7.githubusercontent.com
 185.199.108.133 avatars8.githubusercontent.com
 185.199.108.133 favicons.githubusercontent.com
-17.253.25.201 developer.apple.com
+17.253.119.201 developer.apple.com
 17.253.119.201 devstreaming-cdn.apple.com
 # Host End
 ```
 
-更新时间：2021-03-12 08:30:13
+更新时间：2021-03-19 08:31:19
 
 ## 修改本机的hosts文件
 ### 存放位置
