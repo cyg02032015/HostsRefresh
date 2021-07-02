@@ -4,8 +4,8 @@
 ## hosts列表
 ```base
 # Host Start
-140.82.114.3 github.com
-140.82.112.6 api.github.com
+140.82.112.3 github.com
+140.82.114.6 api.github.com
 185.199.108.133 github.map.fastly.net
 185.199.108.154 github.githubassets.com
 199.232.69.194 github.global.ssl.fastly.net
@@ -27,7 +27,7 @@
 # Host End
 ```
 
-更新时间：2021-06-25 08:25:52
+更新时间：2021-07-02 08:38:52
 
 ## 修改本机的hosts文件
 ### 存放位置
