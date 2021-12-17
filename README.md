@@ -4,30 +4,30 @@
 ## hosts列表
 ```base
 # Host Start
-54.173.27.40 github.com
-34.229.14.189 api.github.com
-52.70.104.90 github.map.fastly.net
-18.206.194.170 github.githubassets.com
-3.92.19.247 github.global.ssl.fastly.net
-44.193.3.125 raw.githubusercontent.com
-54.87.55.13 camo.githubusercontent.com
-44.195.83.74 avatars.githubusercontent.com
-3.238.108.186 avatars0.githubusercontent.com
-52.70.104.90 avatars1.githubusercontent.com
-3.86.158.141 avatars2.githubusercontent.com
-18.205.157.101 avatars3.githubusercontent.com
-54.160.28.223 avatars4.githubusercontent.com
-3.83.100.236 avatars5.githubusercontent.com
-54.84.195.12 avatars6.githubusercontent.com
-18.206.89.115 avatars7.githubusercontent.com
-3.92.244.157 avatars8.githubusercontent.com
-44.201.0.101 favicons.githubusercontent.com
-52.70.104.90 developer.apple.com
-3.92.1.128 devstreaming-cdn.apple.com
+54.185.200.2 github.com
+54.149.114.105 api.github.com
+34.219.42.116 github.map.fastly.net
+54.213.192.94 github.githubassets.com
+54.212.126.15 github.global.ssl.fastly.net
+54.213.192.94 raw.githubusercontent.com
+20.109.167.188 camo.githubusercontent.com
+34.219.183.66 avatars.githubusercontent.com
+54.191.85.23 avatars0.githubusercontent.com
+54.213.90.230 avatars1.githubusercontent.com
+54.218.251.18 avatars2.githubusercontent.com
+54.213.90.230 avatars3.githubusercontent.com
+54.185.200.2 avatars4.githubusercontent.com
+34.221.3.228 avatars5.githubusercontent.com
+54.213.90.230 avatars6.githubusercontent.com
+52.26.86.110 avatars7.githubusercontent.com
+54.212.126.15 avatars8.githubusercontent.com
+20.109.167.188 favicons.githubusercontent.com
+34.219.183.66 developer.apple.com
+34.222.167.119 devstreaming-cdn.apple.com
 # Host End
 ```
 
-更新时间：2021-12-10 08:45:40
+更新时间：2021-12-17 08:48:00
 
 ## 修改本机的hosts文件
 ### 存放位置
